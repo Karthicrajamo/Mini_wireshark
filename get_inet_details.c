@@ -1,3 +1,5 @@
+//This program is to see the Interfaces,IP Address and Netmask.
+//To refer use --> http://yuba.stanford.edu/~casado/pcap/section2.html
 #include<stdio.h>
 #include<stdlib.h>
 #include<pcap.h>
